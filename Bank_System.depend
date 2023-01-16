@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1673872389 source:c:\users\jflorent\onedrive - ntt data emeal\escritorio\c++\bank_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
